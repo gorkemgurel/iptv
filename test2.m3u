@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,Test
+#EXTGRP:TURKEY [TR]
+http://vizyon.vip:8080/live/gorkemgurel/cngs153759/1529.ts
