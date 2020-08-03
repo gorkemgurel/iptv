@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="CORONA VIRUS LIVE" tvg-logo="" group-title="TURKEY [TR]",CORONA VIRUS LIVE
+http://vizyon.vip:8080/live/gorkemgurel/cngs153759/7782.ts
+#EXTINF:-1 tvg-ID="STAR TV-TR" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="TR:STAR TV HD" tvg-logo="http://vstream.pw:8080/tvlogo/star_tv_tr.png" group-title="TURKEY [TR]",TR:STAR TV HD
+http://vizyon.vip:8080/live/gorkemgurel/cngs153759/4.ts
+#EXTINF:-1 tvg-ID="STAR TV-TR" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0" tvg-name="TR:STAR FHD" tvg-logo="http://vstream.pw:8080/tvlogo/star_tv_tr.png" group-title="TURKEY [TR]",TR:STAR FHD
+http://vizyon.vip:8080/live/gorkemgurel/cngs153759/745.ts
