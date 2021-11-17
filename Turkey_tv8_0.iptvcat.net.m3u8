@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8
+http://maz.best:8080/505050/606060/68540?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8 BUCUK FHD
+http://213.115.248.46:9000/TR_-_TV_8.5_HD_PLUS/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8 BUCUK HD
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8 FHD
+http://bestsave.ltd:2052/39995593/39995593/126698?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8 FHD
+http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8 HD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/82811?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8 HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/4194.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAtSZN.png" group-title="Undefined",TV8 INT [SD]
+http://62.112.9.63:88/TV8_TR/index.m3u8?token=test&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="/noicon.png" group-title="Undefined",TV8 TR
+http://client.nodomain.vip:80/80ervinbihac@2020@/q68AelGvzJnUwPFXckaD/1532?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8 iNT
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8.5
+http://iptv.csserv.co:8000/live/clientr725/631739/2626.ts?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8.5 4K
+http://dontuse.offshorerev.cc:80/2345678/2345678/89714?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV8.5 HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/4253.ts?checkedby:iptvcat.net
